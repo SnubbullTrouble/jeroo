@@ -1,4 +1,5 @@
-# These are .jev island maps to be used in Jeroo. To place the jeroo, instantiate a Jeroo isntance and use the starting position listed below for each problem.
+# Jeroo Maps
+These are .jev island maps to be used in Jeroo. To place the jeroo, instantiate a Jeroo isntance and use the starting position listed below for each problem.
 
 ## Pick A Flower
 The Jeroo starts at position (2, 2), facing East, and the goal is to reach and pick the flower at (3, 3).
