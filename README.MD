@@ -37,7 +37,8 @@ Collect all flowers placed in a zigzag pattern across the grid. The Jeroo will s
 ### Obstacle Garden
 Start at (7,0)Collect all the flowers scattered in a semi-random pattern while avoiding water and disabling nets. The student must explore the map, possibly backtrack, and optimize their route.
 
-## These problems center around laying flowers in a particular pattern. Maps are provide to show you what the output should look like.
+## Planting Flowers
+These problems center around laying flowers in a particular pattern. Maps are provide to show you what the output should look like.
 
 ### Plant Flowers in a Line
 The Jeroo starts at (2, 2), and its goal is to plant flowers as it moves East.
