@@ -1,0 +1,8 @@
+FFFFFFFF
+FF....FF
+F.F..F.F
+F..FF..F
+F..FF..F
+F.F..F.F
+FF....FF
+FFFFFFFF
